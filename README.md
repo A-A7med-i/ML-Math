@@ -28,6 +28,23 @@ The repository covers the following mathematical topics frequently used in machi
    - Eigenvalues and Eigenvectors
    - Singular Value Decomposition (SVD)
    - Principal Component Analysis (PCA)
+     
+2. Calculus
+   - Functions
+   - Limits
+   - Contour PLot
+   - Chain Rule
+   - Derivative
+   - Newton-Raphson
+
+3. Probability & Statistics
+   - Probability
+   - Descriptive Statistics
+   - Inferential Statistics
+
+4. Optimization
+   - First-Order Methods
+   - Second-Order Methods
    
 ## Contributing
 
