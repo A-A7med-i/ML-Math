@@ -49,3 +49,7 @@ The repository covers the following mathematical topics frequently used in machi
 ## Contributing
 
 Contributions to this repository are welcome! If you find any issues, have suggestions for improvements, or would like to add new content, please feel free to submit a pull request. Please ensure that your contributions align with the focus of the repository and follow the existing structure and style.
+
+## LICENSE
+
+[MIT License](LICENSE)
